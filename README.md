@@ -1,5 +1,5 @@
-- nom :
-- prénom :
+- nom : Philbert 
+- prénom : Théo
 - URL Netlify :
 
 # Travail
